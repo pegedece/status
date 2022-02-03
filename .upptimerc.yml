@@ -23,7 +23,7 @@ status-website:
   introMessage: Página de prueba de estado de servidores
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
