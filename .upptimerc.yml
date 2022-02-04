@@ -22,8 +22,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Status** my test status page."
-  introMessage: Página de prueba de estado de servidores
+  introTitle: "**Status** page."
+  introMessage: uptime control page
   navbar:
     - title: Status
       href: /status
