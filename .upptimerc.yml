@@ -11,6 +11,8 @@ sites:
     url: https://pdc.net.ar
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
+  - name: api-mapfrenet
+    url: https://ws.mapfre.com.ar/api-mapfrenet/actuator/health/ping
   
 assignees: # Users to assign downtime issues (optional)
   - pegedece  
