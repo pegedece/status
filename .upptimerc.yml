@@ -7,11 +7,13 @@ sites:
   #  url: https://www.google.com
   #- name: Wikipedia
   #  url: https://en.wikipedia.org
-  - name: PDC
+  - name: www.PDC.net.ar
     url: https://www.pdc.net.ar
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co  
-  
+  - name: PDC.net.ar
+    url: https://pdc.net.ar
+    
 assignees: # Users to assign downtime issues (optional)
   - pegedece  
 
