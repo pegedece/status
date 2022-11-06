@@ -8,7 +8,7 @@ sites:
   #- name: Wikipedia
   #  url: https://en.wikipedia.org
   - name: PDC
-    url: https://pdc.net.ar
+    url: https://www.pdc.net.ar
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co  
   
