@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pdc.net.ar.ico",
     "slug": "www-pdc-net-ar",
     "status": "up",
-    "uptime": "87.49%",
+    "uptime": "87.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.75%",
+    "uptimeYear": "91.02%",
     "time": 535,
-    "timeDay": 227,
-    "timeWeek": 339,
-    "timeMonth": 503,
+    "timeDay": 458,
+    "timeWeek": 367,
+    "timeMonth": 506,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2024-07-29": 1158,
@@ -47,8 +47,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -57,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdc.net.ar.ico",
     "slug": "pdc-net-ar",
     "status": "up",
-    "uptime": "87.96%",
+    "uptime": "87.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "35.71%",
-    "uptimeYear": "85.39%",
+    "uptimeYear": "85.66%",
     "time": 378,
-    "timeDay": 214,
-    "timeWeek": 492,
-    "timeMonth": 498,
+    "timeDay": 291,
+    "timeWeek": 304,
+    "timeMonth": 492,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-06-19": 150,
@@ -120,8 +119,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   }
 ]
