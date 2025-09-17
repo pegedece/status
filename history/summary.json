@@ -4,7 +4,7 @@
     "url": "https://www.pdc.net.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.pdc.net.ar.ico",
     "slug": "www-pdc-net-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "88.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 961,
     "timeMonth": 974,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 0
+    }
   },
   {
     "name": "PDC.net.ar",
     "url": "https://pdc.net.ar",
     "icon": "https://icons.duckduckgo.com/ip3/pdc.net.ar.ico",
     "slug": "pdc-net-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "88.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.64%",
@@ -34,6 +36,7 @@
     "timeMonth": 559,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2025-09-17": 0,
       "2025-08-13": 15,
       "2025-06-19": 150,
       "2025-06-18": 1440,
